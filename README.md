@@ -1,7 +1,6 @@
 <h1 align="center">Doctalk - Online Medical App</h1>
 
-
-<img src="./src/assets/banner.png" width="100%" alt="">
+<img width="400"  alt="login" src="https://user-images.githubusercontent.com/87259393/187011990-1feae6bd-746e-4d53-bb2f-fb35d798140b.png"> <img width="400"  alt="login" src="https://user-images.githubusercontent.com/87259393/187012054-676c20c7-a5a5-4301-99fd-addb9b2a1667.gif"> 
 
 ### Languages and Tools
 - Vue Js 3
@@ -20,5 +19,6 @@
 
 ### Demo 
 - [Doctalk - Online Medical App](https://doctalk-ruddy.vercel.app//)
+- [Bagus Budi Satoto](https://github.com/bagussatoto)
 
 
