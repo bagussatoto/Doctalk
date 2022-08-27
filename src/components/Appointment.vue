@@ -31,7 +31,7 @@
             </span>
             <span class="text-xxs">
                <i class="text-xxs mr-1 fas fa-calendar-alt"></i>
-               <small>Friday, 29 September 2021</small>
+               <small>Monday, 29 Agustus 2022</small>
             </span>
          </div>
       </div>
