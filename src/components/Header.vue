@@ -5,10 +5,10 @@
             <div class="text-gray-50 flex items-center gap-3">
                 <i class="text-sm fas fa-th-large"></i>
                 <p class="text-xs">
-                    September 29, 2021
+                    Agustus 27 , 2022
                 </p>
             </div>
-            <img class="rounded shadow" src="/bagus.png" width="35">
+            <img class="rounded shadow" src="/batik.jpg" width="35">
         </section>
 
         <!-- Greetings -->
