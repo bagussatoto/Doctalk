@@ -16,7 +16,7 @@
                <img src="/indra.png" class="rounded-lg" width="80" />
             </div>
             <div class="text-blue-500 flex flex-wrap">
-               <strong class="text-xs block w-full">Dr. Indrawan</strong>
+               <strong class="text-xs block w-full">Dr. Indrawan Nugroho</strong>
                <p class="text-xxs text-gray-400">Surgeon</p>
             </div>
             <small class="text-xxs text-gray-400 font-medium">
