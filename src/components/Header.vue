@@ -5,7 +5,7 @@
             <div class="text-gray-50 flex items-center gap-3">
                 <i class="text-sm fas fa-th-large"></i>
                 <p class="text-xs">
-                    Agustus 27 , 2022
+                   27 Agustus 2022
                 </p>
             </div>
             <img class="rounded shadow" src="/batik.jpg" width="35">
